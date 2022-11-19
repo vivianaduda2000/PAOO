@@ -1,0 +1,3 @@
+/mnt/d/UPT/PAOO/myapp1/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/UPT/PAOO/myapp1/build/CMakeFiles/edit_cache.dir
+/mnt/d/UPT/PAOO/myapp1/build/CMakeFiles/myapp1.dir
