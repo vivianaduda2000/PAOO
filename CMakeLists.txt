@@ -1,5 +1,5 @@
 add_executable(myapp1 tema1.cpp)
 cmake_minimum_required(VERSION 3.0.0)
-project(myapp1 VERSION 0.1.0)
+project(myapp1)
 set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
